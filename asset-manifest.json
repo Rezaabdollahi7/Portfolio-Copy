@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Copy/static/css/main.243b4359.css",
+    "main.js": "/Portfolio-Copy/static/js/main.3ae8408e.js",
+    "static/media/about-back.jpg": "/Portfolio-Copy/static/media/about-back.d474ae5882b14b0e4801.jpg",
+    "static/media/pic99 (9).jpg": "/Portfolio-Copy/static/media/pic99 (9).f60774cd9988798fea9f.jpg",
+    "static/media/pattern2.jpg": "/Portfolio-Copy/static/media/pattern2.a85d5ce31ba0370ac536.jpg",
+    "static/media/bg-edu.jpg": "/Portfolio-Copy/static/media/bg-edu.ab869b50b7c3abc2935b.jpg",
+    "static/media/bg-skill copy.jpg": "/Portfolio-Copy/static/media/bg-skill copy.fe3c2546026c9e57eacb.jpg",
+    "static/media/Caveat-SemiBold.ttf": "/Portfolio-Copy/static/media/Caveat-SemiBold.d636607af1a0fafb54b8.ttf",
+    "static/media/Caveat-Medium.ttf": "/Portfolio-Copy/static/media/Caveat-Medium.f7a72dfa6e8c4f239ede.ttf",
+    "static/media/Caveat-Bold.ttf": "/Portfolio-Copy/static/media/Caveat-Bold.a4392a6300b357b5168b.ttf",
+    "static/media/Caveat-Regular.ttf": "/Portfolio-Copy/static/media/Caveat-Regular.1f129497cd349562c266.ttf",
+    "static/media/bg-contact-2.jpg": "/Portfolio-Copy/static/media/bg-contact-2.b45447b4b503a9a945a3.jpg",
+    "static/media/pic99 (3).jpg": "/Portfolio-Copy/static/media/pic99 (3).de64cdf17727a1f18cf7.jpg",
+    "static/media/pattern3 blur.jpg": "/Portfolio-Copy/static/media/pattern3 blur.f24015c31a51ac9c6400.jpg",
+    "static/media/pattern3.jpg": "/Portfolio-Copy/static/media/pattern3.578f0e4a824b94cf28a5.jpg",
+    "static/media/bg-contact.jpg": "/Portfolio-Copy/static/media/bg-contact.631818ffc021ef15d167.jpg",
+    "static/media/pattern1.jpg": "/Portfolio-Copy/static/media/pattern1.09ae32af9e6c172ca62d.jpg",
+    "static/media/pattern4 copy.jpg": "/Portfolio-Copy/static/media/pattern4 copy.188d6917b5fcdd2fca5d.jpg",
+    "index.html": "/Portfolio-Copy/index.html",
+    "main.243b4359.css.map": "/Portfolio-Copy/static/css/main.243b4359.css.map",
+    "main.3ae8408e.js.map": "/Portfolio-Copy/static/js/main.3ae8408e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.243b4359.css",
+    "static/js/main.3ae8408e.js"
+  ]
+}
