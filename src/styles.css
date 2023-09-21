@@ -1,0 +1,94 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'conveat';
+    src: url('../public/fonts/caveat/Caveat-Bold.ttf') format('ttf'),
+        url('../public/fonts/caveat/Caveat-Regular.ttf') format('ttf'),
+        url('../public/fonts/caveat/Caveat-Medium.ttf') format('ttf'),
+        url('../public/fonts/caveat/Caveat-SemiBold.ttf') format('ttf');
+}
+
+@layer utilities {
+    .f-conveat {
+        font-family: 'caveat';
+    }
+
+    .bg-aboutMe {
+        background-image: url('../public/images/about-back.jpg');
+    }
+
+    .bg-pattern-1 {
+        background-image: url('../public/images/pattern1.jpg');
+    }
+
+    .bg-pattern-2 {
+        background-image: url('../public/images/pattern2.jpg');
+    }
+
+    .bg-pattern-3 {
+        background-image: url('../public/images/pattern3.jpg');
+    }
+
+    .bg-pattern-3-blur {
+        background-image: url('../public/images/pattern3\ blur.jpg');
+    }
+
+    .bg-pattern-4 {
+        background-image: url('../public/images/pattern4\ copy.jpg');
+    }
+
+    .bg-edu {
+        background-image: url('../public/images/bg-edu.jpg');
+    }
+
+    .bg-skill {
+        background-image: url('../public/images/bg-skill\ copy.jpg');
+    }
+
+    .bg-plans {
+        background-image: url('../public/images/pic99\ \(3\).jpg');
+        background-size: cover;
+    }
+
+    .bg-contact {
+        background-image: url('../public/images/bg-contact.jpg');
+    }
+    .bg-contact-2 {
+        background-image: url('../public/images/bg-contact-2.jpg');
+    }
+
+    #aboutMain {
+        background: rgba(30, 27, 75, 0.1);
+        -webkit-backdrop-filter: blur(50px);
+        backdrop-filter: blur(50px);
+    }
+
+    .writting-mode {
+        writing-mode: sideways-rl;
+    }
+
+    .prof-img {
+        background-image: url('../public/images/pic99\ \(9\).jpg');
+        background-position: center;
+        background-size: contain;
+        background-size: cover;
+    }
+
+
+}
+
+@layer components {
+    .fr-center {
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .fc-center {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+}
